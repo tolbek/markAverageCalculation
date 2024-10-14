@@ -1,0 +1,3 @@
+/home/ahmetfk/CLionProjects/markAverageCalculationObjectOriented/cmake-build-debug/CMakeFiles/markAverageCalculationObjectOriented.dir
+/home/ahmetfk/CLionProjects/markAverageCalculationObjectOriented/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ahmetfk/CLionProjects/markAverageCalculationObjectOriented/cmake-build-debug/CMakeFiles/rebuild_cache.dir

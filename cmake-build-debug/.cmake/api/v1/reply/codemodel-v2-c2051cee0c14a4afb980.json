@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "markAverageCalculationObjectOriented",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "markAverageCalculationObjectOriented::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-markAverageCalculationObjectOriented-Debug-a1fa6f217e9841d7de7f.json",
+					"name" : "markAverageCalculationObjectOriented",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ahmetfk/CLionProjects/markAverageCalculationObjectOriented/cmake-build-debug",
+		"source" : "/home/ahmetfk/CLionProjects/markAverageCalculationObjectOriented"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
